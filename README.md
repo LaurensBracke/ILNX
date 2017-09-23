@@ -9,7 +9,7 @@ Hou voor jezelf een [cheat sheet](labos/cheat-sheet.md) bij, het zal je helpen b
 ## Gegevens student
 
 - Naam: Laurens Bracke  
-- Klasgroep: 2TIC1
+- Klasgroep: 2C1
 - Naam van je lector: Bert Van Vreckem
 - Github gebruikersnaam: LaurensBracke
 - URL naar je Github-repository: https://github.com/HoGentTIN/ilnx-LaurensBracke
